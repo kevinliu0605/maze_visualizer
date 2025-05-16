@@ -40,7 +40,7 @@ A Python & Pygame application demonstrating three classic pathfinding algorithms
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/username/maze-visualizer.git
+   git clone https://github.com/kevinliu0605/maze_visualizer.git
    cd maze-visualizer
    ```
 2. **Create a Python virtual environment**
